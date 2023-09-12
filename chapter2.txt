@@ -1,0 +1,7 @@
+git init : Initialize git
+ls -a: list all files in current directory (include hiiden files)(such as git is a hiiden file)
+git status : check the staging area (an intermediate place where you can pick and choose to commit)
+             (the untracked file will be showed in red - means that it's inside the working directory but not yet in the staging area)
+git add chapter1.txt : add the file(chapter1.txt) into the staging area
+git commit -m: commit the file, and "-m" can make you add a commit message
+git log: show the commit history

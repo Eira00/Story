@@ -1,0 +1,2 @@
+git add . : Add all files inside the current directory into the staging area.
+            "." can specify everything inside the current directory.
