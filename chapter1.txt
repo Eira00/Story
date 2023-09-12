@@ -1,0 +1,5 @@
+cd ~/Desktop : change directory to desktop
+mkdir Story : Create an new directory (called Story)
+ls : list all files in current directory
+touch chapter1.txt : Create a text file (called chapter1.txt)
+code chapter1.txt : open a documention (called chapter1.txt)
