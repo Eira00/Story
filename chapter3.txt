@@ -1,2 +1,4 @@
 git add . : Add all files inside the current directory into the staging area.
             "." can specify everything inside the current directory.
+git diff chapter3.txt : Check difference between the current version of chapter3.txt and the last save point in the git repository.
+git checkout chapter3.txt : Row back to the last version that was commited. 
